@@ -1,2 +1,0 @@
-MBD Mute By Door
-Ein Gerät welches das Mikrofon von gamern automatisch ausschaltet wenn man die Tür öffnet.
